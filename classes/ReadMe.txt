@@ -1,0 +1,1 @@
+URL : http://www.tutorialspoint.com/design_pattern/prototype_pattern.htm

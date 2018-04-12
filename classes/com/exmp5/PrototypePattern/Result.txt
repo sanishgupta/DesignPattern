@@ -1,0 +1,11 @@
+Proto Type pattern is all about the reusing of the created object  using 
+"implementing Clonable interface" and using the clone() method so that we
+ can not perform iperation directly on the exsiting oobject instead of 
+ that perform opearion on cloned or copy of object or give the copy of 
+ object to other services to use.   
+
+Verify the output.
+
+Shape : Circle
+Shape : Square
+Shape : Rectangle
